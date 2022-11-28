@@ -1,0 +1,14 @@
+{
+  "FirstOs" : "Windows",
+  "FirstProduct" : "Security Cloud",
+  "SecondOs" : "Mac",
+  "SecondProduct" : "Internet Security",
+  "ThirdOs" : "Android",
+  "ThirdProduct" : "Password Manager",
+  "username" : "testemaila1qa@rambler.ru",
+  "password" : "Qwerty12345",
+  "host": "pop.rambler.ru",
+  "usernameEmail": "testemaila1qa@rambler.ru",
+  "passwordEmail": "Qwerty1234",
+  "mailFolder": "INBOX"
+}
